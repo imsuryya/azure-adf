@@ -1,0 +1,15 @@
+{
+	"name": "surya0453",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3bbc3035-8310-4319-8956-db9f7458d95b",
+		"tenantId": "864922f0-bdcd-4998-bb53-9fe3897d8942"
+	}
+}
